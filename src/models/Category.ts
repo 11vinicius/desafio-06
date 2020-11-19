@@ -1,4 +1,3 @@
-import { Transition } from 'react-native-reanimated';
 import {
   Entity,
   Column,
